@@ -1,0 +1,20 @@
+{
+  "name": "tema-13-ejercicio",
+  "version": "1.0.0",
+  "description": "JQuerry y eventos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayra016/Tema-13-Ejercicio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayra016/Tema-13-Ejercicio/issues"
+  },
+  "homepage": "https://github.com/Mayra016/Tema-13-Ejercicio#readme"
+}
